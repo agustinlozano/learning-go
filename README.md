@@ -1,4 +1,4 @@
-## Learning GOnna be fun!
+## 🦔 Learning GOnna be fun!
 
 ### Enable dependency tracking for your code
 Cuando nuestro codigo requiere de paquetes provenientes de otros modulos tenemos que gestionar esas dependencias en nuestro propio modulo. 
